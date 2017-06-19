@@ -1,0 +1,3 @@
+MURCIELAGO: nombre del animal que tiene todas las vocales
+PERLA: Cantante famosa
+JABON: Necesario de vez en cuando
